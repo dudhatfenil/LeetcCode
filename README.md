@@ -20,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dudhatfenil/LeetcCode/tree/master/0002-add-two-numbers) |
+| [1013-fibonacci-number](https://github.com/dudhatfenil/LeetcCode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dudhatfenil/LeetcCode/tree/master/0002-add-two-numbers) |
+| [1013-fibonacci-number](https://github.com/dudhatfenil/LeetcCode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -51,8 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dudhatfenil/LeetcCode/tree/master/0005-longest-palindromic-substring) |
+| [1013-fibonacci-number](https://github.com/dudhatfenil/LeetcCode/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dudhatfenil/LeetcCode/tree/master/0209-minimum-size-subarray-sum) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/dudhatfenil/LeetcCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
