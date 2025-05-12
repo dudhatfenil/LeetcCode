@@ -21,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/dudhatfenil/LeetcCode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/dudhatfenil/LeetcCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/dudhatfenil/LeetcCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/dudhatfenil/LeetcCode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dudhatfenil/LeetcCode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/dudhatfenil/LeetcCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/dudhatfenil/LeetcCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/dudhatfenil/LeetcCode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
