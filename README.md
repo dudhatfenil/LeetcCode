@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/dudhatfenil/LeetcCode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/dudhatfenil/LeetcCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/dudhatfenil/LeetcCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/dudhatfenil/LeetcCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/dudhatfenil/LeetcCode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/dudhatfenil/LeetcCode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/dudhatfenil/LeetcCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/dudhatfenil/LeetcCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/dudhatfenil/LeetcCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/dudhatfenil/LeetcCode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
@@ -70,4 +72,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/dudhatfenil/LeetcCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/dudhatfenil/LeetcCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
