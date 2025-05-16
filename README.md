@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/dudhatfenil/LeetcCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/dudhatfenil/LeetcCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/dudhatfenil/LeetcCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dudhatfenil/LeetcCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/dudhatfenil/LeetcCode/tree/master/1677-matrix-diagonal-sum) |
 ## Hash Table
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dudhatfenil/LeetcCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/dudhatfenil/LeetcCode/tree/master/0209-minimum-size-subarray-sum) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dudhatfenil/LeetcCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -87,5 +89,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dudhatfenil/LeetcCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/dudhatfenil/LeetcCode/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
