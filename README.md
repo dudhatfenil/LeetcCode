@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/dudhatfenil/LeetcCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/dudhatfenil/LeetcCode/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/dudhatfenil/LeetcCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [2050-count-good-numbers](https://github.com/dudhatfenil/LeetcCode/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/dudhatfenil/LeetcCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dudhatfenil/LeetcCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/dudhatfenil/LeetcCode/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/dudhatfenil/LeetcCode/tree/master/2050-count-good-numbers) |
 ## String
 |  |
 | ------- |
